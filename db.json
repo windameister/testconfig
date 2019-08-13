@@ -1,1 +1,6 @@
-{ "level_achieve_start": 10 }
+{ 
+    "config": {
+        "level_achieve_start": 10
+    }
+    
+}
